@@ -6,11 +6,11 @@
    <h3 align="center">
     I'm a web developer born and raised in Mexico City. I love learn and create. I work with JavaScript and the MERN stack. 
    </h3>
+<div>
 
-   <div>
 
+    <a href="https://soundcloud.com/di-wis"><img src="https://img.shields.io/badge/SoundCloud.com%2Fdi-wis?style=plastic&logo=music&logoColor=%234682b4&labelColor=%234682b4&color=%234682b4
 
-    <a href="https://soundcloud.com/di-wis"><img src="https://img.shields.io/badge/SoundCloud.com%2Fdi-wis?style=plastic&logo=music&logoColor=%234682b4&labelColor=%234682b4&color=%234682b4&link=https%3A%2F%2Fsoundcloud.com%2Fdi-wis
         " alt=""></a>
    </div>
 
