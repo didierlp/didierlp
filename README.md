@@ -29,7 +29,11 @@
   <a href="https://www.linkedin.com/in/didier-lemus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didierlp" height="30" width="40" /></a>
   &nbsp;
   <a href="https://www.instagram.com/diwis__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="didierlp" height="35" width="40" /></a>
+  <a href="https://soundcloud.com/di-wis" target="blank"><img align="center" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/soundcloud-square-color-icon.png" height="35" width="40" /></a>
+
+
 </p>
+
 
 </div>
 
