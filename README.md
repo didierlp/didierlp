@@ -4,8 +4,11 @@
     Hi there! Here's Didier! 👋
    </h1> 
    <h3 align="center">
-  I'm a web developer born and raised in Mexico City. I love learning and creating. I work with JavaScript and the MERN stack.
+  I'm a web developer born and raised in Mexico City. 
+      I love learning and creating. 
+      I work with JavaScript and the MERN stack.
    </h3>
+   
 
 
 ## 🔧 Languages and Tools
@@ -15,12 +18,22 @@
 <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg'>
  <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'>
  <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
+  <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg'>
+ <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg'>
+ <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=didierlp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
+<div align="center"><br><img src="https://komarev.com/ghpvc/?username=didierlp&label=Profile%20views&color=0e75b6&style=flat" style="width:15%;height:auto;" alt="didierlp" /> </div>
 
+ <h2 align="center">Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/didier-lemus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didierlp" height="30" width="40" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/diwis__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="didierlp" height="35" width="40" /></a>
+</p>
 
 
 <!--
