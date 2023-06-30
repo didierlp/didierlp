@@ -22,7 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=didierlp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-<div align="center"><br><img src="https://komarev.com/ghpvc/?username=didierlp&label=Profile%20views&color=0e75b6&style=flat" style="width:15%;height:auto;" alt="didierlp" /> </div>
 
  <h2 align="center">Conctact me</h2>
 <p align="center">
