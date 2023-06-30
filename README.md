@@ -1,14 +1,10 @@
-
 <div align="center">
    <h1 align = "center">
     Hi there! Here's Didier! 👋
    </h1> 
-   <h3 align="center">
-  I'm a web developer born and raised in Mexico City. 
-      I love learning and creating. 
-      I work with JavaScript and the MERN stack.
+   <h3 align="center"> I'm a web developer born and raised in Mexico City.  🌮 I work with JavaScript and the MERN stack. 💻 I love learning and creating. 💓
    </h3>
-   
+   <img align="center" src="https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47aax5qv063dh7gqerbtepmqx4zg3dnosxtoa7i0mo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 ## 🔧 Languages and Tools
@@ -28,12 +24,14 @@
 
 <div align="center"><br><img src="https://komarev.com/ghpvc/?username=didierlp&label=Profile%20views&color=0e75b6&style=flat" style="width:15%;height:auto;" alt="didierlp" /> </div>
 
- <h2 align="center">Connect</h2>
+ <h2 align="center">Conctact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/didier-lemus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didierlp" height="30" width="40" /></a>
   &nbsp;
   <a href="https://www.instagram.com/diwis__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" alt="didierlp" height="35" width="40" /></a>
 </p>
+
+</div>
 
 
 <!--
