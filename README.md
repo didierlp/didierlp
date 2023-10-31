@@ -2,7 +2,7 @@
    <h1 align = "center">
     Hi there! Here's Didier! 👋
    </h1> 
-   <h3 align="center"> I'm a web developer born and raised in Mexico City.  🌮 💻 I love learning and creating. 💓
+   <h3 align="center"> I'm a software developer born and raised in Mexico City.  🌮 💻 I love learning and creating. 💓
    </h3>
    <img align="center" src="https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47aax5qv063dh7gqerbtepmqx4zg3dnosxtoa7i0mo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
