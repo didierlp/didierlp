@@ -8,15 +8,15 @@
 
 
 ## 🔧 Languages and Tools
-<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg'>
 <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'>
 <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg'>
-<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg'>
- <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'>
- <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
-  <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg'>
- <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg'>
- <img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg'>
+<img width="40" height="40" src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=didierlp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
